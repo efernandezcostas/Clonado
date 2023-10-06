@@ -13,6 +13,8 @@ public class Boletin04_01 {
         
         Libro obxLib2 = new Libro("Lazarillo 2", "Manolo", 1900, (short)8);
         obxLib2.getLibro();
+        
+        //comment
     }
     
 }
